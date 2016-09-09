@@ -5,4 +5,4 @@
 ####Slack handle: hassan
 
 #####Photo of Hassan
-![Hassan](./images/h.jpg)
+![Hassan](./Lab01/images/h.jpg)
