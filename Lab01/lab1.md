@@ -15,6 +15,7 @@
     ..........................
     ..........................
     ..........................
+
 ## Part d - Linux:
   1. I have installed Ubuntu on my machine and got familiar with the directory structure.
   2. I have practiced using some of the command in Linux such as ls, cd, mkdi, and chmod.
@@ -22,9 +23,8 @@
   4. I have installed tree and got the directory structure. Find an screen shot below. 
 
 ## Part e - Regex:
-I have done all problems on regexone.com. Please find screen shots below.
-
-I have done 4 problems on beginner level on regexcrossword. Please find screen shots below. 
+1. I have done all problems on regexone.com. Please find screen shots below.
+2. I have done 4 problems on beginner level on regexcrossword. Please find screen shots below. 
 
 
 ## Part f - Play with Blocky:
