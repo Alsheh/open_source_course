@@ -9,8 +9,8 @@
 ## Part c - Reading assigments:
   1. I have read the 10 criteria of Open Source Definition and I understood why they are important. 
   2. 2. I have read Eric Raymond's article How To Ask Questions The Smart Way and here some of my suggestions for How To Answer Questions in a Helpful Way. 
-    a. Three
-    b. Two
+    + Three
+    + Two
   3. I have read chapter 3 of Free Culture and ...:
       ..........................
       ..........................
