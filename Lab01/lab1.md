@@ -28,7 +28,7 @@
 ## Part e - Regex:
 1. I have done all problems on regexone.com. Please find screen shots below.
 ![Regex](./RegexOne/RegexOne-1.png)
-![Regex](./egexOne/RegexOne-10.png)
+![Regex2](./egexOne/RegexOne-10.png)
 ![Regex](./egexOne/RegexOne-11.png)
 ![Regex](./egexOne/RegexOne-12.png)
 ![Regex](./egexOne/RegexOne-13.png)
