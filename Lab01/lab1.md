@@ -4,13 +4,17 @@
     2. I have created a repository for all my lab work.
 
 ## Part b - Create a bio page in your repository:
-      I have create a bio page and included all the required information in the bio page. 
+      I have created a bio page and included all the required information in the bio page. 
 
 ## Part c - Reading assigments:
 1. I have read the 10 criteria of Open Source Definition and I understood why they are important.
-2. I have read Eric Raymond's article How To Ask Questions The Smart Way and here some of my suggestions for How To Answer Questions in a Helpful Way.
-    + Three
-    + Two
+2. I have read Eric Raymond's article How To Ask Questions The Smart Way and here are some of my suggestions for How To Answer Questions in a Helpful Way.
+    + Read the answer carefully before replying; try to understand what the problem is and make your answer short, consice, and straightforward.
+    + Avoid digression from the immediate topic. 
+    + Provide examples for your solutions if possible. 
+    + Cite any sources you use to answer the questions. 
+    + Assume the questioner has little knowledge on the subject.
+
 3. I have read chapter 3 of Free Culture and ...:
     ..........................
     ..........................
