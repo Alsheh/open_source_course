@@ -28,6 +28,7 @@
 ## Part e - Regex:
 1. I have done all problems on regexone.com. Please find screen shots below.
 ![Regex](./RegexOne/RegexOne-1.png)
+<<<<<<< HEAD
 ![Regex](./RegexOne/RegexOne-10.png)
 ![Regex](./RegexOne/RegexOne-11.png)
 ![Regex](./RegexOne/RegexOne-12.png)
@@ -42,6 +43,22 @@
 ![Regex](./RegexOne/RegexOne-7.png)
 ![Regex](./RegexOne/RegexOne-8.png)
 ![Regex](./RegexOne/RegexOne-9.png)
+=======
+![Regex2](./egexOne/RegexOne-10.png)
+![Regex](./egexOne/RegexOne-11.png)
+![Regex](./egexOne/RegexOne-12.png)
+![Regex](./egexOne/RegexOne-13.png)
+![Regex](./egexOne/RegexOne-14.png)
+![Regex](./egexOne/RegexOne-15.png)
+![Regex](./egexOne/RegexOne-2.png)
+![Regex](./egexOne/RegexOne-3.png)
+![Regex](./egexOne/RegexOne-4.png)
+![Regex](./egexOne/RegexOne-5.png)
+![Regex](./egexOne/RegexOne-6.png)
+![Regex](./egexOne/RegexOne-7.png)
+![Regex](./egexOne/RegexOne-8.png)
+![Regex](./egexOne/RegexOne-9.png)
+>>>>>>> 2e77e154bd9799acd3cc1a9f44429ab7c5e395c7
 
 2. I have done 4 problems on beginner level on regexcrossword. Please find screen shots below. 
 
