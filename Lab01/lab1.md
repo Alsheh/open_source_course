@@ -48,7 +48,10 @@
 ![Regex](./RegexOne/RegexOne-15.png)
 
 2. I have done 4 problems on beginner level on regexcrossword. Please find screen shots below. 
-
+![Regex](./Regexrossword/1.png)
+![Regex](./Regexrossword/2.png)
+![Regex](./Regexrossword/3.png)
+![Regex](./Regexrossword/4.png)
 
 ## Part f - Play with Blocky:
 #####Photo of Blocky - Shortest Path 
