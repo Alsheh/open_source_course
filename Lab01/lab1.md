@@ -7,15 +7,14 @@
       I have create a bio page and included all the required information in the bio page. 
 
 ## Part c - Reading assigments:
-  1. I have read the 10 criteria of Open Source Definition and I understood why they are important. 
-  2. 2. I have read Eric Raymond's article How To Ask Questions The Smart Way and here some of my suggestions for How To Answer Questions in a Helpful Way. 
+1. I have read the 10 criteria of Open Source Definition and I understood why they are important.
+2. I have read Eric Raymond's article How To Ask Questions The Smart Way and here some of my suggestions for How To Answer Questions in a Helpful Way.
     + Three
     + Two
-  3. I have read chapter 3 of Free Culture and ...:
-      ..........................
-      ..........................
-      ..........................
-
+3. I have read chapter 3 of Free Culture and ...:
+    ..........................
+    ..........................
+    ..........................
 ## Part d - Linux:
   1. I have installed Ubuntu on my machine and got familiar with the directory structure.
   2. I have practiced using some of the command in Linux such as ls, cd, mkdi, and chmod.
