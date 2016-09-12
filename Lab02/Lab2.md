@@ -11,6 +11,7 @@ A project that doesn't have a declared license cannot be used, modified, and sha
 
 
 | Website | License Present | License |
-| ...	  | 	...    	    | 	...   |
-| 	  | 	    	    | 	      |
-| 	  | 	    	    | 	      |
+| ------- | :---------------: | -------: |
+| 	 f | 	ad    	    | 	f |
+| 1f	  | 	    	    1| f	      |
+| 	4  | 4	    	    | 	      |
