@@ -12,6 +12,8 @@ A project that doesn't have a declared license cannot be used, modified, and sha
 
 | Website | License Present | License |
 | ------- | :---------------: | -------: |
-| 	 f | 	ad    	    | 	f |
-| 1f	  | 	    	    1| f	      |
-| 	4  | 4	    	    | 	      |
+|https://github.com/wtg/shuttle_tracking_2 | Yes| MIT License |
+|https://github.com/Behemyth/Soul-Engine| Yes | GPL-3.0 |
+|https://github.com/Submitty/Submitty | Yes | BSD License |
+|https://github.com/FullScreenShenanigans/FullScreenPokemon| Yes| MIT License|
+|https://github.com/TheoBr/Chrometana| Yes | MIT License|
