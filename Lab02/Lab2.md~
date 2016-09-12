@@ -1,0 +1,13 @@
+2. Why it is important to choose a LICENSE?
+
+
+Everything a person writes, whether it is software or text, is automatically under copyright. The default state of any text is that it is completely owned by the author and no one has rights to do anything with it without express permission of the author. A few decades ago, an author used to have to assert copyright in order to retain it, but this is no longer the case.
+
+
+Thus, if you cannot find any license information, then you cannot copy or modify it for any reason other than personal use.
+
+Making something "open source" is a deliberate act and for you to treat it as such, you have to have found a license that tells you explicitly what your rights to the software are.
+
+3. Why they SHOULDN'T use a project that doesn't have an explicit license?
+
+A project that doesn't have a declared license cannot be used, modified, and shared. "The absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work. This might not be what you intend" (Github.com, 2016). For the aforementioned reasons, using a project that doens't have an explicit licnese doesn't allow end users and commercial companies to review and modify the source code.
