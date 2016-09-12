@@ -54,10 +54,10 @@ Creating and improving a technology may benefit a community in many different wa
 
 ## Part f - Play with Blocky:
 #####Photo of Blocky - Shortest Path 
-![Blocky](./Blocky/First_Attempt.png)
+![Blocky](./Blocky/Shortest_Path.png)
 
 #####Photo of Blocky - First Attempt
-![Blocky](./Blocky/Shortest_Path.png)
+![Blocky](./Blocky/First_Attempt.png)
 
 
 ## Part g - Reflection (Start thinking/finding a problem/project that interests you):
