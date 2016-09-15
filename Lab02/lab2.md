@@ -6,12 +6,10 @@ If a licese is not declared, the project is automatically under a copyright whic
 A project that doesn't have a declared license cannot be used, modified, and shared. "The absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work. This might not be what you intend" (Github.com, 2016). For the aforementioned reasons, using a project that doens't have an explicit licnese doesn't allow end users and commercial companies to review and modify the source code.
 
 
-###4 Read the Failure to follow the Open System Model Section of Why the Web beat Gopher
-Do you agree with this claim? write two to five sentences.
+###4 Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim? write two to five sentences.
 
 
-###5 Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
-Can you justify why such a license is chosen (Justification for ONE is enough).
+###5 Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).
 
 
 ###6 Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
