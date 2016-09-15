@@ -7,7 +7,7 @@ A project that doesn't have a declared license cannot be used, modified, and sha
 
 
 ###4 Read the Failure to follow the Open System Model Section of Why the Web beat Gopher
-     Do you agree with this claim? write two to five sentences.
+Do you agree with this claim? write two to five sentences.
 
 
 ###5 Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source.
