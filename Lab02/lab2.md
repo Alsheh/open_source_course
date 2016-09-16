@@ -13,19 +13,27 @@ A project that doesn't have a declared license cannot be used, modified, and sha
 
 
 ###6 Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
-
+There are two projects I am considering right now. First, Chrome plug in that enables users to browse the web using the keyboard. The second project is Raspberry Pi project. I plan to to use a rasberry pi as VPN router and a server storage. The license I will choese for these two projects are the Apache-2.0 license. 
 
 
 ###7. GPL, LGPL and Apache/BSD:
-For a developer, the use of any of three license, GPL-3, LGPL, and Apache-2.0 seem like a good option. Depending on the goals of the developer s/he can pick the most appropriate license for his project. For example, if the develper wish to make modifications to the software and decides to keep the modified version non-free, the Apache-2.0 allows him to do that. On the other hand, if the developer wants to ensure any modified version of his software stay free software, the GPL and LGPL licenses are the appropriate options for his project. 
+For a developer, the use of any of the three licenses, GPL-3, LGPL, and Apache-2.0 seem like a good option. Depending on the goals of the developer s/he can pick the most appropriate license for his project. For example, if the develper wish to make modifications to the software and decides to keep the modified version non-free, the Apache-2.0 allows him to do that. On the other hand, if the developer wants to ensure any modified version of his software stay free software, the GPL and LGPL licenses are the appropriate options for his project. 
 The Apache License 2.0 (Apache-20) seems a good option for a company. Unlike the GPL-3 licensse, the Apache-2.0 allows the compancy to place wrranty on its licensed software. Thie gives the company's cutomers more confidence in the in the software which makes this license more benegicial to the company using this kind of license. Also, this Apache-2.0 license allows sublicensing which can be profitable to the company holding this license. 
 For the common good, the use of both the GPL-3.0 and LGP-3.0 ensures that the the licesed project will stay in the public domain since any derivatives works can only be redistributed under the GPL/LGPL license.
 
+###8 
+https://github.com/Alsheh/OpenSourceProject
+
 ###9 Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.
+
+I metioned that I have two project ideas that I am considering to work on. The first one a Chrome plug in that allows users to browse the internent using the keyboard. This tool might make the users more productive and the end users of this tool would be people who use the keyboard on daily basis and feel more comfortable using a keyboard such as programmers, writers, etc. I am still looking for other tools that allow moseless borwsing and if I find the one tool that meets my needs I might consider to contribute to that project instead of making my own. 
+
+The second project that I am thinking about is to use a rasberry pi as VPN router and a server storage. Ideally, I'd like to make a user-friendly interface to use a raberry pi as VPN router and a server storage and make the set up process straight forward to end users who do not have suffcient technical knowledge. 
+
+The license I plan to use for both of these projects is the Apache-2.0 license.
 
 
 ###10. Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license. for example:
-
 
 | Website | License Present | License |
 | ------- | :---------------: | -------: |
