@@ -10,7 +10,7 @@ A project that doesn't have a declared license cannot be used, modified, and sha
 
 
 ###5 Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).
-
+Linux uses the GPL v2 license which was created in 1991. This license ensures that users of the Linux have the ability to customize it however they want and share the modified version with others without being liable violating any copright laws. Also, since there are many Linux contributors it is not possible to change the license to a more modern verion of the same license or a different license and this requires every Linux contributor to agree on the terms of the new license which is almost impossible due to the large number of contrubutors. 
 
 ###6 Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.
 There are two projects I am considering right now. First, Chrome plug in that enables users to browse the web using the keyboard. The second project is Raspberry Pi project. I plan to to use a rasberry pi as VPN router and a server storage. The license I will choese for these two projects are the Apache-2.0 license. 
