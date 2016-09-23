@@ -1,9 +1,7 @@
 https://github.com/Alsheh/lab3part1.git
-3
+
 
 ![Hassan](1.png)
 ![Hassan](2.png)
 
-1
-2
-3
+https://github.com/Alsheh/Spoon-Knife.git
