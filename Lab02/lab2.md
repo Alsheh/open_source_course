@@ -6,8 +6,8 @@ If a licese is not declared, the project is automatically under a copyright whic
 A project that doesn't have a declared license cannot be used, modified, and shared. "The absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work. This might not be what you intend" (Github.com, 2016). For the aforementioned reasons, using a project that doens't have an explicit licnese doesn't allow end users and commercial companies to review and modify the source code. 
 
 
-###4 Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim? write two to five sentences.
-I agree with this claim. The Web provides the authors more control over their content by allowing them include embeded hyperlinks in their content. This makes it more convenient for Internet exploration. Additionally, Gopher failed to be open during the development phase for the protocol. Therefore, Gopher had less human resources to help improve the protocol. On the other hand, "the Web's technology was also quickly opened up to the larger development community". The open-source development model enabled teh Web to become more popular since necessary fixes/changes were made quickly by the large development community. 
+###4 Read the Failure to follow the Open System Model Section of Why the Web beat Ggopher. Do you agree with this claim? write two to five sentences.
+I agree with this claim. The Web provides the authors more control over their content by allowing them include embeded hyperlinks in their content. This makes it more convenient for Internet exploration. Additionally, Gopher failed to be open during the development phase for the protocol. Therefore, Gopher had less human resources to help improve the protocol. On the other hand, "the Web's technology was al2so quickly opened up to the larger development community". The open-source development model enabled teh Web to become more popular since necessary fixes/changes were made quickly by the large development community. 
 
 
 
