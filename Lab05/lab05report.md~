@@ -20,5 +20,11 @@ rpi-wl-1035:Lab05 hassanalshehri$ cmake .
 -- Generating done
 -- Build files have been written to: /Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05
 
+### make 
+rpi-wl-1035:Lab05 hassanalshehri$ make 
+Scanning dependencies of target Tutorial
+[ 50%] Building C object CMakeFiles/Tutorial.dir/tutorial.c.o
+[100%] Linking C executable Tutorial
+[100%] Built target Tutorial
 
 --------------------

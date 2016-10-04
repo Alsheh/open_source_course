@@ -185,6 +185,9 @@ Tutorial_BINARY_DIR:STATIC=/Users/hassanalshehri/Google Drive/RPI/Open_Software/
 //Value Computed by CMake
 Tutorial_SOURCE_DIR:STATIC=/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05
 
+//Use tutorial provided math implementation
+USE_MYMATH:BOOL=ON
+
 
 ########################
 # INTERNAL cache entries

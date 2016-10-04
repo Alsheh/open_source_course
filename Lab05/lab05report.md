@@ -1,4 +1,4 @@
-## A Basic Starting Point (Step1): 
+### A Basic Starting Point (Step1): 
 
 #### cmake .
 rpi-wl-1035:Lab05 hassanalshehri$ cmake .
@@ -28,3 +28,17 @@ Scanning dependencies of target Tutorial
 [100%] Built target Tutorial
 
 --------------------
+
+### Adding a Library (Step 2) 
+
+rpi-wl-1035:Lab05 hassanalshehri$ cmake .
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05
+rpi-wl-1035:Lab05 hassanalshehri$ 
+rpi-wl-1035:Lab05 hassanalshehri$ 
+rpi-wl-1035:Lab05 hassanalshehri$ make
+Scanning dependencies of target Tutorial
+[ 50%] Building C object CMakeFiles/Tutorial.dir/tutorial.c.o
+[100%] Linking C executable Tutorial
+[100%] Built target Tutorial
