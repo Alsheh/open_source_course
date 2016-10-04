@@ -3,19 +3,6 @@ project (Tutorial)
 # The version number.
 set (Tutorial_VERSION_MAJOR 1)
 set (Tutorial_VERSION_MINOR 0)
-
-
-# add the MathFunctions library?
-#
-if (USE_MYMATH)
-  include_directories ("${PROJECT_SOURCE_DIR}/MathFunctions")
-  add_subdirectory (MathFunctions)
-  set (EXTRA_LIBS ${EXTRA_LIBS} MathFunctions)
-endif (USE_MYMATH)
- 
-# add the executable
-add_executable (Tutorial tutorial.cxx)
-target_link_libraries (Tutorial  ${EXTRA_LIBS})
  
 # configure a header file to pass some of the CMake settings
 # to the source code
