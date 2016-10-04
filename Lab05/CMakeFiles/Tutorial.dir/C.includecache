@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05/tutorial.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+-
+
+TutorialConfig.h
+
