@@ -7,6 +7,11 @@ set (Tutorial_VERSION_MINOR 0)
 # should we use our own math functions?
 option (USE_MYMATH 
         "Use tutorial provided math implementation" ON) 
+
+# does this system provide the log and exp functions?
+include (CheckFunctionExists)
+check_function_exists (log HAVE_LOG)
+check_function_exists (exp HAVE_EXP)
  
 # configure a header file to pass some of the CMake settings
 # to the source code
@@ -38,6 +43,7 @@ target_link_libraries (Tutorial  ${EXTRA_LIBS})
 install (TARGETS Tutorial DESTINATION bin)
 install (FILES "${PROJECT_BINARY_DIR}/TutorialConfig.h"        
          DESTINATION include)
+
 
 
 include(CTest)
