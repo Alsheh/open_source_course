@@ -7,7 +7,8 @@
 - The current branches: 1 (master)
 
 
-'''
+#Gitstats#
+```
 Project name:
 	Bshare
 Generated
@@ -26,4 +27,4 @@ Total Commits
       13 (average 1.4 commits per active day, 0.2 per all days)
 Authors
 	1 (average 13.0 commits per author)
-'''
+```
