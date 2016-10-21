@@ -1,5 +1,5 @@
 
-
+## Part1
 
 - Project Name: Bshare
 - Repo: https://github.com/CMine/Bshare.git
@@ -11,8 +11,6 @@
 - Leader: CMine
 
 Evolution of Bshare (Gource Visualization): https://www.youtube.com/watch?v=b4BiKecEluU&feature=youtu.be
-
-
 
 #Gitstats#
 ![Regex](./1.png)
