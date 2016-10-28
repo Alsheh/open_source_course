@@ -23,6 +23,7 @@ int main (int argc, char *argv[])
 #ifdef USE_MYMATH
   double outputValue = mysqrt(inputValue);
 #else
+  printf("std");
   double outputValue = sqrt(inputValue);
 #endif
  

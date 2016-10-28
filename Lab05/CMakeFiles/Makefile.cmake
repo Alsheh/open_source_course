@@ -49,6 +49,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "DartConfiguration.tcl"
   "TutorialConfig.h"
+  "DartConfiguration.tcl"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "MathFunctions/CMakeFiles/CMakeDirectoryInformation.cmake"
   )

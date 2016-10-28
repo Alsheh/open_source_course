@@ -1,0 +1,17 @@
+import unittest
+
+def multiply(x,y):
+    return x * y
+
+class TestUM2(unittest.TestCase):
+ 
+    def setUp(self):
+        pass
+    def test_numbers_4_8(self):
+        self.assertEqual( multiply(4,8), 32)
+ 
+    def test_strings_b_3(self):
+        self.assertEqual( multiply('b',3), 'bbb')
+ 
+if __name__ == '__main__':
+    unittest.main()

@@ -12,6 +12,6 @@
 
 Evolution of Bshare (Gource Visualization): https://www.youtube.com/watch?v=b4BiKecEluU&feature=youtu.be
 
-#Gitstats#
 ![Regex](./1.png)
 
+## Part1

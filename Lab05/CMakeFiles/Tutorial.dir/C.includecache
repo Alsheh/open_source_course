@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05/TutorialConfig.h
+
+/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05/tutorial.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05/TutorialConfig.h
+MathFunctions.h
+/Users/hassanalshehri/Google Drive/RPI/Open_Software/myRepo/Lab05/MathFunctions.h
+
+MathFunctions/MathFunctions.h
+mysqrt.c
+MathFunctions/mysqrt.c
+
+MathFunctions/mysqrt.c
+math.h
+-
+
