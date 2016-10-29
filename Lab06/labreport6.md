@@ -14,4 +14,13 @@ Evolution of Bshare (Gource Visualization): https://www.youtube.com/watch?v=b4Bi
 
 ![Regex](./1.png)
 
+<<<<<<< HEAD
 ## Part1
+=======
+
+## Part2 
+![Regex](./test.png)
+
+markdown.py:https://github.com/Alsheh/open_source_course/blob/master/Lab06/markdownf.py 
+test_markdown_unittest.py: https://github.com/Alsheh/open_source_course/blob/master/Lab06/test.py
+>>>>>>> 2b7a4dc514d9f912e6d4d9a9b24cb052b7cd4fa9
