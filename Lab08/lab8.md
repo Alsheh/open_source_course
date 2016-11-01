@@ -44,3 +44,12 @@ inspect(rules.sorted)
 ![Plot](./Rplot01.png)
 ![Plot](./Rplot02.png)
 ![Plot](./Rplot03.png)
+
+
+##Status of my project:
+1- Found an issue about a bug.
+2- Forked the repository. 
+2- Debugged the code.
+3- Added test cases to cover cases that were not covered in the original test cases. 
+4- Submitted a pull request.
+5- My pull request was accepted.
