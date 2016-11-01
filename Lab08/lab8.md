@@ -20,6 +20,13 @@ rules <- apriori(admissions,  parameter = list(minlen=2, supp=0.01, conf=0.02),
 rules.sorted <- sort(rules, by="confidence")
 inspect(rules.sorted)
 
+library(arulesViz)
+plot(rules.sorted)
+plot(rules.sorted, method="grouped")
+plot(rules.sorted, method="graph")
+plot(rules.sorted, method="graph", control=list(type="items"))
+
+
 ```
 
 ```
