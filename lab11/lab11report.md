@@ -53,20 +53,20 @@ Now, I am considering to use of the tools he recommended to help me enforce a co
 - In this video, Crockford uses JavaScript to illustrate key ideas about programming style https://www.youtube.com/watch?v=_EANG8ZZbRs.
 RESPONSE: Douglas Crockford, the person who “discovered” JSON in 2001, gave a talk about coding style.  He used JavaScript to show what a good coding style is, but the principles he talks about can be used in any programming language. Here is a summary of his talk:
 
-- A good style can help produce better programs. 
-- Style should not be about personal personal preference and self-expression.
-- Programs must communicate clearly to people.
-- Programs must communicate clearly to people
-- Use a space after a comma, not before.
-- Use spacces to disambiguate parens.
-- use one space between a function name and a parameter list.
-- If there is a feature of a language that is sometimes problematic, and if it can be replaced with another feature that is more reliable, then always use the more reliable feature.
-- Make your programs look like what they do.
-- Global variables are evil. Avoid global variables whenever you can.
-- When using global variables, be explicit by naming it with uppercase separated by underscore.
-- The ++ operator is confusing and shouldn't be used. Use x += 1 instead.
-- For no cost, by adopting a more rigorous style, many classes of errors can be automatically avoided.
-- Programming is the most complicated thing that humans do since computers programs must be perfect and humans are not good at perfect.
-- Designing a programming style demands discipline. It is not selecting features because they liked, or pretty, or familiar.
-- There will be bugs but do what you can to move the odds to your favor.
+ 1. A good style can help produce better programs. 
+ 2. Style should not be about personal personal preference and self-expression.
+ 3. Programs must communicate clearly to people.
+ 4. Programs must communicate clearly to people
+ 5. Use a space after a comma, not before.
+ 6. Use spacces to disambiguate parens.
+ 7. use one space between a function name and a parameter list.
+ 8. If there is a feature of a language that is sometimes problematic, and if it can be replaced with another feature that is more reliable, then always use the more reliable feature.
+ 9. Make your programs look like what they do.
+ 10. Global variables are evil. Avoid global variables whenever you can.
+ 11. When using global variables, be explicit by naming it with uppercase separated by underscore.
+ 12. The ++ operator is confusing and shouldn't be used. Use x += 1 instead.
+ 13. For no cost, by adopting a more rigorous style, many classes of errors can be automatically avoided.
+ 14. Programming is the most complicated thing that humans do since computers programs must be perfect and humans are not good at perfect.
+ 15. Designing a programming style demands discipline. It is not selecting features because they liked, or pretty, or familiar.
+ 16. There will be bugs but do what you can to move the odds to your favor.
 
