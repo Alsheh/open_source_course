@@ -51,6 +51,7 @@ RESPOSE: Nicholas wrote a great article about coding style standard. I learned f
 Now, I am considering to use of the tools he recommended to help me enforce a coding style.
 
 - In this video, Crockford uses JavaScript to illustrate key ideas about programming style https://www.youtube.com/watch?v=_EANG8ZZbRs.
+
 RESPONSE: Douglas Crockford, the person who “discovered” JSON in 2001, gave a talk about coding style.  He used JavaScript to show what a good coding style is, but the principles he talks about can be used in any programming language. Here is a summary of his talk:
 
  1. A good style can help produce better programs. 
