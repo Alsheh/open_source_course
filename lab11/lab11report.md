@@ -43,7 +43,7 @@ Reflection: RCOS is a group of RPI students who work on open source projects. Me
 
 # Part 4: 
 Please do first three items under directions and do item 2 under deliverables. http://foss2serve.org/index.php/StyleGuides (Watch the videos then write a response to them).
-### Directions:
+
 - This article talks about the need for a coding standard: http://www.smashingmagazine.com/2012/10/25/why-coding-style-matters/
 
 RESPOSE: Nicholas wrote a great article about coding style standard. I learned from his article that simple problems can look harder if bad code style is used. His article makes me realize that developing a good coding a style will help me understand my code when I look at it years after I write it. Also, Nicholas indicated that having a good coding style may extend the life span of the code. He illustrates this by telling a personal story:
