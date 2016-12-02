@@ -12,13 +12,21 @@ str(admissions)
 summary(admissions)
 head(admissions)
 
-rules <- apriori(admissions,
-                  parameter = list(minlen=2, supp=0.06, conf=0.2),
-                  #appearance = list(rhs=c("admit=0", "admit=1"), default="none"),
-                  )#control = list(verbose=F))
-quality(rules) <- round(quality(rules), digits=3)
+
+rules <- apriori(admissions,  parameter = list(minlen=2, supp=0.01, conf=0.02),
+                 appearance = list(rhs=c("admit=1"), 
+                                   default="lhs"),
+                 control = list(verbose=F))
 rules.sorted <- sort(rules, by="confidence")
 inspect(rules.sorted)
+
+library(arulesViz)
+plot(rules.sorted)
+plot(rules.sorted, method="grouped")
+plot(rules.sorted, method="graph")
+plot(rules.sorted, method="graph", control=list(type="items"))
+
+
 ```
 
 ```
